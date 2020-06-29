@@ -20,7 +20,7 @@
 
 数据集和预训练好的模型太大了（前者 1.1G，后者 300+M），小水管传不上来，懒得传了；有需要的话可以联系我或者提个 issue 什么的，不过大概是没人会对这种效果的东西感兴趣的。
 
-## Licence
+## License
 
 `semantic-segmentation-based-sky-replacement` 是 Yume Maruyama 完成的厦门大学信息学院计算机系 2020 春季学期《模式识别》课程的期末设计；在 MIT 协议下开源。
 
